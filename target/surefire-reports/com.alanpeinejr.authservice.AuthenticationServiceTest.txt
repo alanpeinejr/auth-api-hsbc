@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.alanpeinejr.authservice.AuthenticationServiceTest
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.295 sec
